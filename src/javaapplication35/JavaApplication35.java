@@ -64,6 +64,9 @@ public class JavaApplication35 {
         Arrays.sort(impar);
         System.out.println("tabla par: "+ Arrays.toString(par));
         System.out.println("tabla impar: "+ Arrays.toString(impar));
+        
+        System.out.println("estoy mirando como se hacen los cambios para git");
+        System.out.println("parece que tambien me marca a la izquierda el cambio");
     }
     
 }
